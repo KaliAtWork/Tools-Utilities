@@ -1,0 +1,7 @@
+Works on:  All Linux Disrtos.
+
+Requirements:   ffmpeg. Which can be installed via package manager or from official-site https://ffmpeg.org/.
+
+Usage:    k-th-gen   <path/to/video>
+
+The thumbnail will be generated in the same directory as the video, inside "thumbnail" folder.
